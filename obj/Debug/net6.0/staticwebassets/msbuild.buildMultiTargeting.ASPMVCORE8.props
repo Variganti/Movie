@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASPMVCORE8.props" />
+</Project>
